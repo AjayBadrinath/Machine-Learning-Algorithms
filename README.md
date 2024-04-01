@@ -11,4 +11,4 @@ This Repo is intended for self - use ... Consist  of Implementations reg ML Algo
 7 | <a href="https://github.com/AjayBadrinath/Machine-Learning-Algorithms/blob/main/Ex6%20KMeans/KMeans.ipynb"> KMeans From Scratch </a>
 8 | <a href="https://github.com/AjayBadrinath/Machine-Learning-Algorithms/blob/main/Ex7%20PCA/PCA_MNIST.ipynb"> PCA-MNIST From Scratch </a>
 9 | <a href="https://github.com/AjayBadrinath/Machine-Learning-Algorithms/blob/main/Ex8%20NeuralNetworks/NeuralNetworks.ipynb"> Neural Networks From Scratch </a>
-10 | <a href=""> Associative Rule Mining - Apriori Algorithm </a>
+10 | <a href="https://github.com/AjayBadrinath/Machine-Learning-Algorithms/blob/main/Ex9%20Association%20Rule%20Mining/Apriori.ipynb"> Associative Rule Mining - Apriori Algorithm </a>
